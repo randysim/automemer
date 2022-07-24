@@ -5,6 +5,8 @@ instructions:
 
 download repo
 
+install ffmpeg stuff
+
 change variables to your paths (inconvenient sorry)
 
 create venv
